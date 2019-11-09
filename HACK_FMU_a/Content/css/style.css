@@ -1,0 +1,14 @@
+body {
+  padding-top: 56px;
+  background-color:  rgba(192,0,0, 1);
+  color:#fff;
+}
+.nav-link{
+  padding: 0px 0px;
+  font-size:1.1em;
+ }
+
+@media (max-width: 768px) {
+
+
+}
